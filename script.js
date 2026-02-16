@@ -337,3 +337,4 @@ prevBtn.addEventListener("click", () => {
     updateSlider();
   }
 });
+
